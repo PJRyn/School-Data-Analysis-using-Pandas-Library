@@ -1,4 +1,4 @@
-School Data Analysis using Pandas Library
+# School Data Analysis using Pandas Library
 ## About the Project
 This project utilized python notebooks and the pandas library to provide analysis on two .csv files "schools_complete.csv" and "students_complete.csv". This was a way to practice multiple analysis techniques on a large joint dataset. The analysis is broken down into multiple sections which are as follows:
 

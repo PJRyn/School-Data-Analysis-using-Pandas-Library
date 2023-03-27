@@ -49,3 +49,5 @@ This project utilized python notebooks and the pandas library to provide analysi
 
 
 The files used for analysis are located within the 'Resources' folder. The 'PyCitySchools.ipynb' provides an analysis of each listed section and can be seen in browser or within a compatible IDE such as Visual Studio Code or Jupyter Notebook.
+
+*data was provided by Monahs University Data Analysis Bootcamp 2022 - 2023*
